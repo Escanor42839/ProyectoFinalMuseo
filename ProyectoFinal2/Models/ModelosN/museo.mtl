@@ -1,0 +1,142 @@
+# Blender 3.6.3 MTL File: 'None'
+# www.blender.org
+
+newmtl Material.013
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd blanco.png
+map_Ks cascoS.png
+map_d blanco.png
+
+newmtl Material.014
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd blanco.png
+map_Ks cascoS.png
+map_d blanco.png
+
+newmtl Material.015
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd madera1.png
+map_Ks cafeclaro1S.png
+map_d madera1.png
+
+newmtl Material.016
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd blanco.png
+map_Ks cafeclaro1S.png
+map_d blanco.png
+
+newmtl Material.017
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd blanco.png
+map_Ks cafeclaro1S.png
+map_d blanco.png
+
+newmtl Material.018
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd blanco.png
+map_Ks cafeclaro1S.png
+map_d blanco.png
+
+newmtl Material.019
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd negro.png
+map_Ks negroS.png
+map_d negro.png
+
+newmtl Material.021
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd cafeclaro1.png
+map_Ks cafeclaro1S.png
+map_d cafeclaro1.png
+
+newmtl None.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd blanco.png
+map_Ks cafeclaro1S.png
+map_d blanco.png
+
+newmtl None.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd blanco.png
+map_Ks cafeclaro1S.png
+map_d blanco.png
+
+newmtl None.008
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd blanco.png
+map_Ks cafeclaro1S.png
+map_d blanco.png
+
+newmtl None.009
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd blanco.png
+map_Ks cafeclaro1S.png
+map_d blanco.png
+
+newmtl None.010
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd blanco.png
+map_Ks cafeclaro1S.png
+map_d blanco.png
+
+newmtl None.011
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd blanco.png
+map_Ks cafeclaro1S.png
+map_d blanco.png

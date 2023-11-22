@@ -1,0 +1,22 @@
+# Blender 3.6.3 MTL File: 'None'
+# www.blender.org
+
+newmtl 01___14077_WWII_Tank_Germany_Panzer_III_tracks
+Ns 35.000008
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd negro.png
+map_Ks cafeclaro1S.png
+
+newmtl 02___14077_WWII_Tank_Germany_Panzer_III_hull
+Ns 35.000008
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd cafeclaro1.png
+map_Ks cafeclaro1S.png
+map_d cafeclaro1.png

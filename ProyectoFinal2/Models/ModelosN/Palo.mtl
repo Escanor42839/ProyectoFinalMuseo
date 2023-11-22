@@ -1,0 +1,12 @@
+# Blender 3.6.3 MTL File: 'None'
+# www.blender.org
+
+newmtl Monitor:phong1SG
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd colorP.png
+map_Ks cafeclaro1S.png
+map_d colorP.png
