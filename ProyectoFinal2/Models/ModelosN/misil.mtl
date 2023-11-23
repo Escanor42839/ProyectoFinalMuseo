@@ -1,0 +1,12 @@
+# Blender 3.6.3 MTL File: 'misil.blend'
+# www.blender.org
+
+newmtl phong1SG
+Ns 18.000004
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 1
+map_Kd blancoRaya.png
+map_Ks armaS.png
+map_d blancoRaya.png

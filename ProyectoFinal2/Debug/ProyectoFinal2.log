@@ -1,0 +1,123 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: El directorio intermedio (Debug\) contiene archivos compartidos de otro proyecto (actividad10.vcxproj, actividad8.vcxproj, Actividad9.vcxproj, practica7.1.vcxproj, practica8.vcxproj, Proyecto.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  proyecto.cpp
+C:\Users\carlos\Desktop\VisualStudio\ProyectoFinal2\ProyectoFinal2\proyecto.cpp(262,24): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\carlos\Desktop\VisualStudio\ProyectoFinal2\ProyectoFinal2\proyecto.cpp(301,32): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\carlos\Desktop\VisualStudio\ProyectoFinal2\ProyectoFinal2\proyecto.cpp(302,32): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\carlos\Desktop\VisualStudio\ProyectoFinal2\ProyectoFinal2\proyecto.cpp(303,32): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\carlos\Desktop\VisualStudio\ProyectoFinal2\ProyectoFinal2\proyecto.cpp(315,33): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\carlos\Desktop\VisualStudio\ProyectoFinal2\ProyectoFinal2\proyecto.cpp(316,33): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\carlos\Desktop\VisualStudio\ProyectoFinal2\ProyectoFinal2\proyecto.cpp(317,33): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\carlos\Desktop\VisualStudio\ProyectoFinal2\ProyectoFinal2\proyecto.cpp(330,33): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\carlos\Desktop\VisualStudio\ProyectoFinal2\ProyectoFinal2\proyecto.cpp(331,33): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\carlos\Desktop\VisualStudio\ProyectoFinal2\ProyectoFinal2\proyecto.cpp(332,33): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\carlos\Desktop\VisualStudio\ProyectoFinal2\ProyectoFinal2\proyecto.cpp(344,33): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\carlos\Desktop\VisualStudio\ProyectoFinal2\ProyectoFinal2\proyecto.cpp(345,33): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\carlos\Desktop\VisualStudio\ProyectoFinal2\ProyectoFinal2\proyecto.cpp(346,33): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\carlos\Desktop\VisualStudio\ProyectoFinal2\ProyectoFinal2\proyecto.cpp(357,33): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\carlos\Desktop\VisualStudio\ProyectoFinal2\ProyectoFinal2\proyecto.cpp(358,33): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\carlos\Desktop\VisualStudio\ProyectoFinal2\ProyectoFinal2\proyecto.cpp(359,33): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\carlos\Desktop\VisualStudio\ProyectoFinal2\ProyectoFinal2\proyecto.cpp(370,33): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\carlos\Desktop\VisualStudio\ProyectoFinal2\ProyectoFinal2\proyecto.cpp(371,33): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\carlos\Desktop\VisualStudio\ProyectoFinal2\ProyectoFinal2\proyecto.cpp(372,33): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\carlos\Desktop\VisualStudio\ProyectoFinal2\ProyectoFinal2\proyecto.cpp(383,33): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\carlos\Desktop\VisualStudio\ProyectoFinal2\ProyectoFinal2\proyecto.cpp(384,33): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\carlos\Desktop\VisualStudio\ProyectoFinal2\ProyectoFinal2\proyecto.cpp(385,33): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\carlos\Desktop\VisualStudio\ProyectoFinal2\ProyectoFinal2\proyecto.cpp(931,26): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\carlos\Desktop\VisualStudio\ProyectoFinal2\ProyectoFinal2\proyecto.cpp(1079,17): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\carlos\Desktop\VisualStudio\ProyectoFinal2\ProyectoFinal2\proyecto.cpp(1088,17): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\carlos\Desktop\VisualStudio\ProyectoFinal2\ProyectoFinal2\proyecto.cpp(1273,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\carlos\Desktop\VisualStudio\ProyectoFinal2\ProyectoFinal2\proyecto.cpp(1274,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\carlos\Desktop\VisualStudio\ProyectoFinal2\ProyectoFinal2\proyecto.cpp(1278,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\carlos\Desktop\VisualStudio\ProyectoFinal2\ProyectoFinal2\proyecto.cpp(1279,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\carlos\Desktop\VisualStudio\ProyectoFinal2\ProyectoFinal2\proyecto.cpp(1281,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\carlos\Desktop\VisualStudio\ProyectoFinal2\ProyectoFinal2\proyecto.cpp(1282,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+soil2-debug.lib(etc1_utils.obj) : warning LNK4099: no se encontró PDB '' con 'soil2-debug.lib(etc1_utils.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(image_DXT.obj) : warning LNK4099: no se encontró PDB '' con 'soil2-debug.lib(image_DXT.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(image_helper.obj) : warning LNK4099: no se encontró PDB '' con 'soil2-debug.lib(image_helper.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(SOIL2.obj) : warning LNK4099: no se encontró PDB '' con 'soil2-debug.lib(SOIL2.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+  ProyectoFinal2.vcxproj -> C:\Users\carlos\Desktop\VisualStudio\ProyectoFinal2\Debug\ProyectoFinal2.exe

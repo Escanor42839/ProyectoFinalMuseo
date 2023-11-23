@@ -1,0 +1,12 @@
+# Blender 3.6.3 MTL File: 'None'
+# www.blender.org
+
+newmtl Material__25
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd arma.png
+map_Ks cascoS.png
+map_d arma.png

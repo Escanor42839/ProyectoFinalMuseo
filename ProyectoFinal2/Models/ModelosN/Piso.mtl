@@ -1,0 +1,12 @@
+# Blender 3.6.3 MTL File: 'None'
+# www.blender.org
+
+newmtl blinn1SG
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 2
+map_Kd PISO.png
+map_Ks armaS.png
+map_d PISO.png
